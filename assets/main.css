@@ -29,11 +29,7 @@ body {
     width: 1500px;
     left: -10px;
     mix-blend-mode: color;
-}
-
-。title {
-    width: 100%;
-    border: 1px soild white;
+    transform: translate3d(0,0,0);
 }
 
 .headline01 {
