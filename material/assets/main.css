@@ -85,13 +85,78 @@ body {
     list-style-type: none; 
 }
 
-.scale1 {
+.effect {
     cursor: pointer;
     color: #FFFFFF;
     opacity: 0.5;
 }
 
-.scale1:hover,
+.effect:hover,
+.clicked {
+    cursor: pointer;
+    opacity: 1.0;
+    color: #FFFFFF;
+}
+
+.effect2 {
+    cursor: pointer;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.effect2:hover,
+.clicked {
+    cursor: pointer;
+    opacity: 1.0;
+    color: #FFFFFF;
+}
+
+.effect3 {
+    cursor: pointer;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.effect3:hover,
+.clicked {
+    cursor: pointer;
+    opacity: 1.0;
+    color: #FFFFFF;
+}
+
+.effect4 {
+    cursor: pointer;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.effect4:hover,
+.clicked {
+    cursor: pointer;
+    opacity: 1.0;
+    color: #FFFFFF;
+}
+
+.effect5 {
+    cursor: pointer;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.effect5:hover,
+.clicked {
+    cursor: pointer;
+    opacity: 1.0;
+    color: #FFFFFF;
+}
+
+.effect6 {
+    cursor: pointer;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.effect6:hover,
 .clicked {
     cursor: pointer;
     opacity: 1.0;
@@ -101,6 +166,11 @@ body {
 .content1 {
     position: relative;
     top: -40px;
+}
+
+.background {
+    width: 100%;
+    background-color: black;
 }
 
 @keyframes img1 {
